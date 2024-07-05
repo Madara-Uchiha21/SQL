@@ -1,0 +1,16 @@
+Step1  - Search for SQL Server 2022 Download.(Microsoft SQL)
+Step2  - Click on Download "Developers" SQL Server 2022 .
+Step3  - Click on Custom
+Step4  - Install
+Step5  - Installation on left column, Tick the box.
+Step6  - New SQL Server Standalone (The First Option)
+Step7  - In next psge nothing have to change. 
+Step8  - Check box
+Step9  - Azure Extension for SQL page, we have to uncheck the box of Azure Extension SQL.
+Step10 - Check the box of Database Enginne Service + SQL Server Replication.
+Step11 - Click on Named Instance and give any  name to Server.
+Step12 - Server Configueration page on rght side make every thing automaatic.
+Step13 - Database Engine Config . Click on Mixed Mode and Enter password.---> Add current User.
+Step14 - Now click on Install 
+
+++++++++++    Finally SQL Database is Installed    ++++++++++++++++++++++++++++++++
